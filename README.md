@@ -1,1 +1,1 @@
-# Mspping_Earthquakes
+# Mapping_Earthquakes
