@@ -10,11 +10,9 @@ The map will display earthquake locations with circle markers sized by magnitude
 
 The goal is an educational earthquake visualization that illustrates global seismic patterns and plate tectonics relationships. Interactive features like layer toggling, date filtering, and popups will enable in-depth exploration. Mapping significant earthquake data enables hazard assessment, informs scientific understanding of earthquake geology, powers early warning systems, coordinates disaster response, educates the public on risks, analyzes potential impacts, validates models, and monitors seismic activity over time. An interactive visualization provides critical insights for mitigating, studying, responding to, and preparing for these damaging seismic events.
 
-<img width="1111" alt="Screen Shot 2023-10-15 at 8 22 02 PM" src="https://github.com/justint42/Mapping_Earthquakes/assets/106895220/a1d61df2-aea4-4d77-a6fa-4b79fa616441">
 
-<img width="1136" alt="Screen Shot 2023-10-15 at 8 22 15 PM" src="https://github.com/justint42/Mapping_Earthquakes/assets/106895220/42ceb6a7-06dd-4a07-b905-a2326076b3a7">
+<img width="2002" alt="Screen Shot 2023-10-16 at 12 18 20 PM" src="https://github.com/justint42/Mapping_Earthquakes/assets/106895220/ad8c49ad-3d26-46a8-bc39-67a243826397">
 
-<img width="1144" alt="Screen Shot 2023-10-15 at 8 22 26 PM" src="https://github.com/justint42/Mapping_Earthquakes/assets/106895220/ddbbb6d4-0ccd-4ca3-a4ae-5749a0ad3c67">
+<img width="2005" alt="Screen Shot 2023-10-16 at 12 16 41 PM" src="https://github.com/justint42/Mapping_Earthquakes/assets/106895220/005cdb96-7e48-48b5-870c-f9467c2966fa">
 
-
-
+<img width="2005" alt="Screen Shot 2023-10-16 at 12 16 41 PM" src="https://github.com/justint42/Mapping_Earthquakes/assets/106895220/f41d1164-34d2-459a-a592-023fb609fcd6">
