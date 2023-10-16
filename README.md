@@ -14,4 +14,7 @@ The goal is an educational earthquake visualization that illustrates global seis
 <img width="2002" alt="Screen Shot 2023-10-16 at 12 18 20 PM" src="https://github.com/justint42/Mapping_Earthquakes/assets/106895220/ad8c49ad-3d26-46a8-bc39-67a243826397">
 
 
+<img width="2005" alt="Screen Shot 2023-10-16 at 12 17 28 PM-min" src="https://github.com/justint42/Mapping_Earthquakes/assets/106895220/17095daa-e000-4b8a-9790-1b8d6fd0de88">
+
+
 <img width="2005" alt="Screen Shot 2023-10-16 at 12 16 41 PM" src="https://github.com/justint42/Mapping_Earthquakes/assets/106895220/f41d1164-34d2-459a-a592-023fb609fcd6">
