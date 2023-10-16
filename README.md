@@ -6,7 +6,7 @@ https://blue-dian-42.tiiny.site
 
 ## Purpose
 
-This project will utilize D3.js and MapBox API to create an interactive global earthquake map with street map, satellite, and dark map layer options. Earthquake data in GeoJSON format will be requested from the USGS API to plot all magnitude 4.5+ quakes over the past 30 days.
+This project will utilize D3.js and MapBox API to create an interactive global earthquake map with street map, satellite, and dark map layer options. Earthquake data in GeoJSON format will be requested from the USGS API to plot all magnitude 0-5+ quakes over the past 30 days.
 
 The map will display earthquake locations with circle markers sized by magnitude with a color scale indicating shallow and deep quakes. On click, popups will show location and magnitude.  Users can toggle between light, dark, and satellite map layers using controls provided by MapBox. There will also be options to display tectonic plate boundaries and filter only major quakes above magnitude 7 with prominent red circle markers.
 
