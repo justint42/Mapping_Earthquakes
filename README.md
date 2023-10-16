@@ -8,7 +8,7 @@ The map will display earthquake locations with circle markers sized by magnitude
 
 ## Use Case
 
-The goal is an educational earthquake visualization that illustrates global seismic patterns and plate tectonics relationships. Interactive features like layer toggling, date filtering, and popups will enable in-depth exploration. Mapping significant earthquake data enables hazard assessment, informs scientific understanding of earthquake geology, powers early warning systems, coordinates disaster response, educates the public on risks, analyzes potential impacts, validates models, and monitors seismic activity over time. An interactive visualization provides critical insights for mitigating, studying, responding to, and preparing for these damaging seismic events.
+The goal is an educational earthquake visualization that illustrates global seismic patterns and plate tectonics relationships. Interactive features like layer toggling, date filtering, and popups will enable in-depth exploration. Mapping significant earthquake data enables hazard assessment, informs scientific understanding of earthquake geology, powers early warning systems, coordinates disaster response, educates the public on risks, analyzes potential impacts, validates models, and monitors seismic activity over time. The map provides critical insights for mitigating, studying, responding to, and preparing for these damaging seismic events.
 
 
 <img width="2002" alt="Screen Shot 2023-10-16 at 12 18 20 PM" src="https://github.com/justint42/Mapping_Earthquakes/assets/106895220/ad8c49ad-3d26-46a8-bc39-67a243826397">
