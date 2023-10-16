@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Interactive Earthquake Map
 
 ## Purpose
 
